@@ -1,0 +1,34 @@
+Ian Goodfellow
+Residence	San Francisco, California
+Nationality	American
+Alma mater	Stanford University
+Université de Montréal
+Known for	Generative adversarial networks
+Scientific career
+Fields	Computer science
+Institutions	Google Brain
+OpenAI
+Doctoral advisor	Yoshua Bengio, Aaron Courville
+Website	www.iangoodfellow.com
+Ian J. Goodfellow[1] is a researcher working in machine learning, currently employed as a research scientist at Google Brain. He has made several contributions to the field of deep learning.
+
+Biography
+Goodfellow obtained his B.S. and M.S. in computer science from Stanford University and his Ph.D. in machine learning from the Université de Montréal, under the supervision of Yoshua Bengio and Aaron Courville. After graduation, Goodfellow joined Google as part of the Google Brain research team.[2] He then left Google to join the newly founded OpenAI institute.[3][4] He returned to Google Research in March 2017.
+
+Goodfellow is best known for inventing generative adversarial networks, an approach to machine learning frequently used at Facebook.[1][5] He is also the lead author of the textbook Deep Learning.[6] At Google, he developed a system enabling Google Maps to automatically transcribe addresses from photos taken by Street View cars[7][8] and demonstrated security vulnerabilities of machine learning systems.[9][10]
+
+In 2017, Goodfellow was cited in MIT Technology Review's 35 Innovators Under 35.[11] In 2019, he was included in Foreign Policy's list of 100 Global Thinkers.[12]
+
+References
+ Goodfellow, Ian J.; Pouget-Abadie, Jean; Mirza, Mehdi; Xu, Bing; Warde-Farley, David; Ozair, Sherjil; Courville, Aaron; Bengio, Yoshua (2014). "Generative Adversarial Networks". arXiv:1406.2661 [stat.ML].
+ "Ian Goodfellow". Research at Google. Retrieved July 31, 2016.
+ Brockman, Greg (March 31, 2016). "Team++". OpenAI Blog. Retrieved July 31, 2016.
+ Metz, Cade (April 27, 2016). "Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free". Wired. Retrieved July 31, 2016.
+ Greenemeier, Larry (June 20, 2016). "When Will Computers Have Common Sense? Ask Facebook". Scientific American. Retrieved July 31, 2016.
+ Goodfellow, Ian; Bengio, Yoshua; Courville, Aaron (2016). Deep Learning. Cambridge, Massachusetts: MIT Press.
+ "How Google Cracked House Number Identification in Street View". MIT Technology Review. January 6, 2014. Retrieved July 31, 2016.
+ "Updating Google Maps with Deep Learning and Street View". Research Blog. Retrieved 2017-05-04.
+ Gershgorn, Dave. "Fooling the Machine". Popular Science. Retrieved July 31, 2016.
+ Gershgorn, Dave (July 27, 2016). "Researchers Have Successfully Tricked A.I. Into Seeing The Wrong Things". Popular Science. Retrieved July 31, 2016.
+ "Ian Goodfellow, 31".
+ "2019 Global Thinkers".
